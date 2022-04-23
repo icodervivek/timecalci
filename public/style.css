@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    background-color: #065e5f;
+    color: #fff;
+    font-family: 'Poppins';
+}
+
+h2{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    word-spacing: 1.2px;
+}
+
+.intervals_para{
+    font-size: .8rem;
+    letter-spacing: 1px;
+    word-spacing: 1.2px;
+}
+
+.hero-section{
+    background-color: rgba(0, 0, 0, 0.651);
+}
+
+.hero-section h4{
+    font-size: 1rem;
+    letter-spacing: 1px;
+    word-spacing: 1.2px;
+}
+
+input{
+    color: black;
+    padding: .2rem;
+    margin-top: 2rem;
+    width: 5rem;
+}
+
+.interval_txt_one{
+    margin-bottom: -.5rem;
+}
+
+.interval_txt_two{
+    margin-top: 2rem;
+    margin-bottom: -.5rem;
+}
+
+.btn-success{
+    margin-top: 2rem;
+    padding: .2rem 1.2rem;
+}
+
+.infotexts{
+    letter-spacing: 1px;
+    word-spacing: 1.2px;
+}
